@@ -1,0 +1,50 @@
+Student: 20121782 - Vu My Son
+	GPA=5.59966, Telephone=0915897381
+	Email=VMSon@student.hcmus.edu.vn
+	DOB=1/4/2001
+	Address=13 Coca Cola, Ward 5, District 5, Ho Chi Minh city
+Student: 20121444 - Duong Van An
+	GPA=9.1522, Telephone=0915886077
+	Email=DVAn@student.hcmus.edu.vn
+	DOB=10/4/2002
+	Address=94 Mai Chi Tho, Ward 8, District 8, Ho Chi Minh city
+Student: 20124585 - Le Van Huy
+	GPA=8.75686, Telephone=0915892730
+	Email=LVHuy@student.hcmus.edu.vn
+	DOB=28/3/2002
+	Address=5 Hoang Dieu 2, Ward 6, District 6, Ho Chi Minh city
+Student: 20121010 - Nguyen Quang Quang
+	GPA=6.16034, Telephone=0915906901
+	Email=NQQuang@student.hcmus.edu.vn
+	DOB=8/8/1999
+	Address=81 Le Van Chi, Ward 3, District 3, Ho Chi Minh city
+Student: 20125095 - Dang Thi Quan
+	GPA=9.80297, Telephone=0915889639
+	Email=DTQuan@student.hcmus.edu.vn
+	DOB=4/11/2000
+	Address=93 Coca Cola, Ward 7, District 7, Ho Chi Minh city
+Student: 20128913 - Tran Quang Long
+	GPA=4.76614, Telephone=0915896047
+	Email=TQLong@student.hcmus.edu.vn
+	DOB=21/4/2001
+	Address=79 Mai Chi Tho, Ward 3, District 3, Ho Chi Minh city
+Student: 20128215 - Tran Hai Tuan
+	GPA=4.43178, Telephone=0915889604
+	Email=THTuan@student.hcmus.edu.vn
+	DOB=22/12/2000
+	Address=78 Nguyen Xi, Ward 8, District 8, Ho Chi Minh city
+Student: 20120592 - Nguyen Duc An
+	GPA=9.22196, Telephone=0915904070
+	Email=NDAn@student.hcmus.edu.vn
+	DOB=13/5/2000
+	Address=32 Nguyen Xi, Ward 7, District 7, Ho Chi Minh city
+Student: 20124225 - Hoang Quang Nam
+	GPA=4.89889, Telephone=0915907921
+	Email=HQNam@student.hcmus.edu.vn
+	DOB=4/8/1999
+	Address=65 Vo Van Ngan, Ward 11, District 11, Ho Chi Minh city
+Student: 20120007 - Bui Thi Tuan
+	GPA=6.524, Telephone=0915889847
+	Email=BTTuan@student.hcmus.edu.vn
+	DOB=23/2/2000
+	Address=35 Le Van Chi, Ward 3, District 3, Ho Chi Minh city
